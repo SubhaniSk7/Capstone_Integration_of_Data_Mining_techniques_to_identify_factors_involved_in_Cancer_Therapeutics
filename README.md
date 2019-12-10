@@ -10,7 +10,7 @@ Descriptions of Code files (in code folder):
 
 1. code_module_1: This file contains the code to determine feature 'Cancer type' from text using Cancer types list file "cancer list.txt"
 
-2. code_module_2: In this file, the 652 patents are filtered using Google Tesseract OCR library to obtain only those files which have useful information provided as graphs
+2. code_module_2: In this file, the 642 patents are filtered using Google Tesseract OCR library to obtain only those files which have useful information provided as graphs
 
 3. Code_module_3: This file puts up graph details of all the filtered files, obtained through above code_module_2, in an excel sheet to be used later. 
 
