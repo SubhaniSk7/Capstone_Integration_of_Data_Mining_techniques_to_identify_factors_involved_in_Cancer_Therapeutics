@@ -1,0 +1,66 @@
+﻿B6.2 ;liver ;Mus musculus
+B38.1 ;liver ;Mus musculus
+Hs 819.T ;bone ;Homo sapiens 
+HTB-94 ;bone ;Homosapiens 
+Hs 295.Sk ;skin ;Homosapiens 
+Hs 357.T ; skin  ;Homosapiens 
+CRL-7043; skin ;Homosapiens
+Hs 822.T ;bone ;Homosapiens
+Hs 863.T ;bone ;Homosapiens
+RD-ES ;bone ;Homosapiens
+FC83.Res ; spleen,thymus; Felis catus
+Hs 706.T ;bone ;Homosapiens 
+Hs 737.T ;bone ;Homosapiens
+Hs 821.T ;bone ;Homosapiens 
+Hs 127.T ;connective-tissue ;Homosapiens
+Hs 5.T ;connective-tissue ;Homosapiens
+SK-LMS-1 ;vulva ;Homosapiens
+DDT1 MF-2 ;ductus; Mesocricetus auratus
+[SW-872 ;connective tissue  ;Homosapiens
+LB9.Bm ;lymph-node;Bos taurus 
+BL3.1; lymphoblast ;Bos taurus
+Hs 925.T ; skin ; Homosapiens
+J774A.1 ; ascites;Mus musculus
+Hs 324.T ;lymph-node ;Homo sapiens
+[RD114-B] ;connective-tissue ;Homo sapiens
+TE 441.T ; connective-tissue ;Homo sapiens
+RD ; muscle ; Homo sapiens
+A-673; muscle ;Homo sapiens 
+Hs 729 ; muscle ;Homosapiens 
+A-204 ;muscle;Homosapiens
+SJCRH30; bone;Homosapiens
+TE 159.T; unknown ;Homosapiens
+FB2.K ;kidney ;Bos taurus fetus
+CV-1 ;kidney ; Cercopithecus
+QNR/D ; neuroretina ;Coturnix coturnix japonica
+QNR/K2 ;neuroretina ; Coturnix coturnix japonica
+pRSV-T ;eye/cornea ; Homo sapiens
+L 86 ; lung ;Homo sapiens
+(LeSa) ; lung ;Homo sapiens
+Hs 925.Sk ; skin ; Homo sapiens
+Hs 707; skin ; Homo sapiens
+EHS ; connective-tissue ;Mus musculus
+BALB/3T3 ;embryo ;Mus musculus
+C3H/10T1/2; embryo ;Mus musculus 
+3197-3 ;embryo ;Mus musculus 
+NIH/3T3 ;embryo;Mus musculus 
+MS1 VEGF ;pancreas ;Mus musculus
+AtT-20ins;pituitary ;Mus musculus
+CNCTC ;subcutaneous ;Mus musculus
+F19 ;spleen ;Mus musculus
+MiCl1; lung ; Mustela vison 
+F19 ;spleen ;Mus musculus
+MiCl1 ;lung ;Rattus norvegicus
+PA317 ;embryo ;Mus musculus
+PA317 ;embryo ;Mus musculus 
+12.1 ;lymphoblast ;Mus musculus
+Y13-238; Kidney; Rattus norvegicus
+SU-CCS-1 ;pleural-effusion ;Homo sapiens
+LB9.D ;skin ;Bos taurus
+LB10.K ;kidney ; Bos taurus
+MES-SA ;uterus Homo sapiens 
+MES-SA/Dx5 ;uterus ;Homo sapiens 
+MES-SA/MX2 ;uterus ;Homo sapiens 
+XMMCO-791 ;spleen ;Mus musculus
+SK-ES-1 ;bone ;Homo sapiens
+Hs 57.T ;lung ;Homo sapiens

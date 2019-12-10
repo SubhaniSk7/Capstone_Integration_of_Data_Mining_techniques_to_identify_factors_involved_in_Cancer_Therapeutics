@@ -1,0 +1,249 @@
+﻿H838 ;lung ;Homo sapiens
+HCC827 ;lung;Homo sapiens
+SK-LU-1 ;lung;Homo sapiens
+HCC2935 ;lung ;Homo sapiens
+HCC4006 ;lung ;Homo sapiens
+H1819 ;lung ;Homo sapiens
+[H676B] ;lung ;Homo sapiens
+Calu-3 ;lung ;Homo sapiens
+Hs618.T ;lung ;Homo sapiens
+[NBE4-E6] ;lung/bronchus;Homo sapiens
+[H1666] ;lung/pleural effusion;Homo sapiens
+[H23] ;lung;Homo sapiens
+[H1435] ;lung;Homo sapiens
+[H1563] ;lung;Homo sapiens
+[H1651] ;lung;Homo sapiens
+[H1734] ;lung;Homo sapiens
+[H1793] ;lung;Homo sapiens
+[H1838] ;lung;Homo sapiens
+[H1975] ;lung;Homo sapiens
+[H2085] ;lung;Homo sapiens
+[H2228] ;lung;Homo sapiens
+[H1568] ;lung ;Homo sapiens
+[H2030] ;lung ;Homo sapiens
+[H2291] ;lung ;Homo sapiens
+[H2126] ;lung ;Homo sapiens
+LA-4 ;lung ;Mus musculus
+[H596] ;lung ;Homo sapiens
+[SW1573] ;lung;Homo sapiens
+CCD-16Lu ;lung ;Homo sapiens
+H720 ;lung;Homo sapiens
+MSTO-211H ;lung;Homo sapiens
+[H358] ;lung ;Homo sapiens
+[H650] ;lung ;Homo sapiens
+Hs229.T ;lung;Homo sapiens
+ChaGo-K-1 ;lung ;Homo sapiens
+Hs573.T ;lung ;Homo sapiens
+Hs573.Lu ;lung ;Homo sapiens
+703D4 ;lung ;Mus musculus
+BBM ;lung/bronchus ;Homo sapiens
+BZR ;lung/bronchus ;Homo sapiens
+[H835] ;lung ;Homo sapiens
+UMC-11 ;lung ;Homo sapiens
+[H727] ;lung/bronchus ;Homo sapiens
+A549 ;lung ;Homo sapiens
+CCD-13Lu ;lung ;Homo sapiens
+A-427 ;lung ;Homo sapiens
+A549 ;lung ;Homo sapiens
+5H8 ;lung ;Mus musculus
+[H1688] ;lung ;Homo sapiens
+[H187] ;lung ;Homo sapiens
+[H1688] ;lung ;Homo sapiens
+[H187] ;lung ;Homo sapiens
+[H661] ;lung ;Homo sapiens
+[H460] ;lung ;Homo sapiens
+H1299 ;lung ;Homo sapiens
+[H1155] ;lung ;Homo sapiens
+DMS 114 ;lung ;Homo sapiens
+[H69] ;lung ;Homo sapiens
+DMS 79 ;lung ;Homo sapiens
+[SW1271] ;lung ;Homo sapiens
+SHP-77 ;lung ;Homo sapiens
+[H209] ;lung ;Homo sapiens
+[H146] ;lung ;Homo sapiens
+[H345] ;lung ;Homo sapiens
+[H1341] ;lung ;Homo sapiens
+DMS153 ;lung;Homo sapiens
+[H82] ;lung;Homo sapiens
+[H1048]  ;lung;Homo sapiens
+[H128] ;lung;Homo sapiens
+[H446] ;lung;Homo sapiens
+[H128]  ;lung;Homo sapiens
+[H510A] ;lung;Homo sapiens
+H69AR ;lung;Homo sapiens
+HLF-a ;lung ;Homo sapiens
+Hs 913T ;lung ;Homo sapiens
+NBL-7 ;lung; Neovison vison
+AHL-1 ;lung; Cricetulus griseus
+CCD-25Lu ;lung; Homo sapiens
+Calu-1 ;lung ;Homo sapiens 
+[SW900] ;lung ;Homo sapiens 
+LLC1 ;lung ;Mus musculus
+HBE135-E6E7 ;lung/bronchus ;Homo sapiens 
+Tera-2 ;lung;Homo sapiens 
+[H292] ;lung;Homo sapiens 
+sNF02.2 ;lung;Homo sapiens 
+[H1703] ;lung ;Homo sapiens 
+[H2172] ;lung;Homo sapiens 
+[H2444] ;lung ;Homo sapiens 
+[H2110] ;lung ;Homo sapiens 
+[H2135] ;lung ;Homo sapiens 
+HEL299 ;lung ;Homo sapiens 
+MRC-5 ;lung ;Homo sapiens 
+IMR-90 ;lung ;Homo sapiens 
+CCD-19Lu ;lung ;Homo sapiens 
+MRC-9 ;lung ;Homo sapiens 
+WI-38 lung ;Homo sapiens 
+BEAS-2B ;lung/bronchus;Homo sapiens 
+[Mlg 2908] ;lung ;Mus musculus
+[AgC11x3A] ;lung; Rattus norvegicus
+Hs888Lu ;lung ;Homo sapiens 
+K7M2-pCI ;lung; Mus musculus
+[H441] ;lung ;Homo sapiens
+[H441] ;lung ;Homo sapiens
+[H441] ;lung  ;Homo sapiens
+[H1404] ;lung;Homo sapiens
+[H820]  ;lung ;Homo sapiens
+LeSa ;lung ;Homo sapiens
+MiCl1 ;lung ;Mus musculus
+Hs57.T ;lung ;Homo sapiens
+[H2170] ;lung ;Homo sapiens
+[H520] ;lung ;Homo sapiens
+SK-MES-1 ;lung ;Homo sapiens
+EPLC-32M1 ;lung ;Homo sapiens
+KLN205 ;lung ;Homo sapiens 
+[H226] ;lung: pleural effusion ;Homo sapiens
+[H2347] ;lung  ;Homo sapiens
+[H2087]  ;lung: lymph node;Homo sapiens
+[H1437]  ;lung: pleural effusion ;Homo sapiens
+[H2066] ;lung  ;Homo sapiens
+[H2286] ;lung  ;Homo sapiens
+[H1395] ;lung ;Homo sapiens
+[H522] ;lung ;Homo sapiens
+ [H810] ;lung ;Homo sapiens
+[H1648] ;lung ;Homo sapiens
+[H2073] ;lung ;Homo sapiens
+[H2342] ;lung ;Homo sapiens
+[H1993] ;lung ;Homo sapiens
+[H2023] ;lung ;Homo sapiens
+[H647] ;lung ;Homo sapiens
+[H1385] ;lung ;Homo sapiens
+[H1623] ;lung ;Homo sapiens
+[H1944] ;lung ;Homo sapiens
+[H1650] ;lung ;Homo sapiens
+[H1781] ;lung ;Homo sapiens
+[H1693] ;lung ;Homo sapiens
+[H1792] ;lung ;Homo sapiens
+[H2009] ;lung ;Homo sapiens
+[H1355] ;lung ; Homo sapiens
+[H1573] ;lung ;Homo sapiens
+[H2405] ;lung ;Homo sapiens
+[H1755] ;lung ;Homo sapiens
+[H920]  ;lung ;Homo sapiens
+[H1770] ;lung ;Homo sapiens
+[H2122] ;lung ;Homo sapiens
+[H1581] ;lung ;Homo sapiens
+[H2106] ;lung/neuroendocrine: lymph node
+[H1869] ;lung ;Homo sapiens
+[H1915] ;lung ;Homo sapiens
+[H889]  ;lung ;Homo sapiens
+[H1417] ;lung ;Homo sapiens
+[H1694] ;lung ;Homo sapiens
+[H719] ;lung ;Homo sapiens
+[H1092] ;lung ;Homo sapiens
+[H250] ;lung ;Homo sapiens
+[H740] ;lung ;Homo sapiens
+[H1105];lung ;Homo sapiens
+[H1436];lung ;Homo sapiens
+[H1876];lung ;Homo sapiens
+[H378] ;lung ;Homo sapiens
+[H2081] ;lung ;Homo sapiens
+[H774] ;lung ; Homo sapiens
+[H748] ;lung ; Homo sapiens
+[H220] ;lung ; Homo sapiens
+[H711] ;lung ;Homo sapiens
+[H2227] ;lung ;Homo sapiens
+[H211] ;lung ;Homo sapiens
+[H1238] ;lung ;Homo sapiens
+[H1618] ;lung ;Homo sapiens
+[H1882] ;lung ;Homo sapiens
+[H2195] ;lung ;Homo sapiens
+[H2196] ;lung ;Homo sapiens
+[H2029] ;lung ;Homo sapiens
+[H2141] ;lung ;Homo sapiens
+[H2198] ;lung ;Homo sapiens
+[H2171] ;lung ;Homo sapiens
+[H735] ;lung ;Homo sapiens
+[H64] ;lung ;Homo sapiens
+[H2107] ;lung ;Homo sapiens
+[H1522] ;lung ;Homo sapiens
+[H526] ;lung ;Homo sapiens
+[H196] ;lung ;Homo sapiens
+[H1672] ;lung ;Homo sapiens
+[H1836] ;lung ;Homo sapiens
+[H1930] ;lung ;Homo sapiens
+[H865] ;lung ;Homo sapiens
+[H847] ;lung ;Homo sapiens
+[H1963] ;lung ;Homo sapiens
+[H1184] ;lung ;Homo sapiens
+[H2330] ;lung ;Homo sapiens
+[H524] ;lung ;Homo sapiens
+[H841] ;lung ;Homo sapiens
+NL20 ;lung/bronchus ;Homo sapiens
+[NL20T-A] ;lung/bronchus;Homo sapiens 
+LL29 ;lung ;Homo sapiens
+LL47  ;lung ;Homo sapiens
+IMR-31) ;lung ;Bison bison 
+JH4 ;lung ;Cavia porcellus
+DBS-FCL-2 ;lung ;Cercopithecus aethiops
+12MBr6 ;lung/ bronchus;Cercopithecus aethiops
+DBS-FCL-1 ;lung;Cercopithecus aethiops
+Don ;lung;Cricetulus griseus
+Dede ;lung ;Cricetulus griseus
+V79-4 ;lung;Cricetulus griseus
+R 1610 ;lung;Cricetulus griseus
+[CHL-11] ;lung;Cricetulus griseus
+XR-V15B ;lung ;Cricetulus griseus
+NZP-12 ;lung; Crossarchus obscurus
+AK-D ;lung ;Felis catus fetus
+Fc2Lu ;lung ;Felis catus near
+LL 24 ;lung ;Homo sapiens 
+HFL1 ;lung ;Homo sapiens 
+LL 97A ;lung ;Homo sapiens
+CCD-8Lu ;lung; Homo sapiens 
+CCD-11Lu ;lung ; Homo sapiens 
+CCD 18Lu ;lung ; Homo sapiens
+CCL-75;lung ; Homo sapiens
+WI-26VA4 ;lung Homo sapiens 
+CCD-33Lu ;lung ; Homo sapiens 
+sNF94.3 ;lung ;Homo sapiens
+Hs 1.Lu ;lung ; Homo sapiens 
+FHs 738Lu ;lung; Homo sapiens 
+Malme-3M ;lung ;Homo sapiens
+[NBE4-E6-C1] ;lung/bronchus ;Homo sapiens 
+[NBE4-E7-C1] ;lung/bronchus ;Homo sapiens 
+CCD-29Lu ;lung ;Homo sapiens 
+CCD-34Lu ;lung ; Homo sapiens 
+CCD-39Lu ;lung ;Homo sapiens 
+Gekko ;lung ;lizard, gecko (Gekko gecko)
+DBS-FRhL-2 ;lung ; Macaca mulatta
+4MBr-5 ;lung/bronchus; Macaca mulatta
+GeLu ;lung;Meriones unguiculatus
+MH-S ;lung;Mus musculus
+AMJ2-C8 ;lung; Mus musculus
+AMJ2-C11 ;lung ; Mus musculus
+MLE 12 ;lung ; Mus musculus
+[ACE 3.1.1] ;lung ; Mus musculus
+MM14.Lu ;lung/bronchus ; Mus musculus
+R9ab ;lung ;Oryctolagus cuniculus
+NZP-29 ;lung ;Oryx dammah
+L2 ;lung ;Rattus norvegicus
+RFL-6 ;lung ;Rattus norvegicus
+RL-65 ;lung ;Rattus norvegicus
+RLE-6TN ;lung ;Rattus norvegicus
+DPSO 114/74 ;lung;Saimiri boliviensis peruviensis
+3D4/21 ;lung ;Sus scrofa
+3D4/31 ;lung ;Sus scrofa
+3D4/2 ;lung ;Sus scrofa
+Tb 1 Lu ;lung ;Tadarida brasiliensis
+FoLu ;lung ;Urocyon cineroargenteus 

@@ -1,0 +1,63 @@
+8E5 ;blood;Homo sapiens
+[CCRFCEM] ;blood;Homo sapiens
+[CCRF HSB-2] ;blood;Homo sapiens
+MOLT-3 ;blood;Homo sapiens
+CEM/C2 ;blood;Homo sapiens
+CEM/C1 ;blood;Homo sapiens
+[CCRF CEM];blood;Homo sapiens
+TALL-104 ;blood;Homo sapiens
+CEM-CM3 ;blood;Homo sapiens
+AML-193 ;blood;Homo sapiens
+THP-1; blood;Homo sapiens
+Kasumi-3 ; blood;Homo sapiens
+Kasumi-1 ;blood;Homo sapiens
+BDCM ;blood;Homo sapiens
+Kasumi-6 ;blood;Homo sapiens
+HL-60 ;blood;Homo sapiens
+Clone 15; blood;Homo sapiens
+HL-60/MX2 ;blood;Homo sapiens
+HL-60/MX1 ;blood;Homo sapiens
+J45.01 ;blood;Homo sapiens
+J.CaM1.6 ;blood;Homo sapiens
+Jurkat; blood;Homo sapiens
+J.RT3-T3.5 ;blood;Homo sapiens
+urkat ;blood;Homo sapiens
+[BL1395] ;blood;Homo sapiens
+[BL2009]; blood;Homo sapiens
+[BL1437] ;blood;Homo sapiens
+[BL2087]; blood;Homo sapiens
+[BL2122]; blood;Homo sapiens
+JAA-F11 ;blood;Homo sapiens
+31E9 ;blood;Homo sapiens
+RBL-2H3; blood;Homo sapiens
+MV-4-11 ;blood;Homo sapiens
+BCP-1 ;blood;Homo sapiens
+JVM-13; blood;Homo sapiens
+Kasumi-4 ;blood;Homo sapiens
+KU812; blood;Homo sapiens
+KU812-F; blood;Homo sapiens
+KU812E ;blood;Homo sapiens
+MYA-1 ;blood;Homo sapiens
+Mo-B ; blood;Homo sapiens
+MM.1S; blood;Homo sapiens
+FeT-J ;blood;Homo sapiens
+FeT-1C ;blood;Homo sapiens
+7G7B6 ;blood;Homo sapiens
+NALM-1;blood;Homo sapiens
+CW13.20-3B3 ;blood;Homo sapiens
+WEHI-3;blood;Homo sapiens
+RBL-1;blood;Homo sapiens
+RH/K34 ;blood;Homo sapiens
+RH/K30;blood;Homo sapiens
+[BL2052];blood;Homo sapiens
+MM.1R;blood;Homo sapiens
+[U266];blood;Homo sapiens
+GDM-1 ;blood;Homo sapiens
+CESS ;blood;Homo sapiens
+ARH-77 ;blood;Homo sapiens
+MC/CAR ;blood;Homo sapiens
+RPMI 8226 ;blood;Homo sapiens
+Loucy;blood;Homo sapiens
+ 
+ 
+

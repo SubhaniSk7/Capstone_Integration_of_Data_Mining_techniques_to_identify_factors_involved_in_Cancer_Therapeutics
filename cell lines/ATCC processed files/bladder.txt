@@ -1,0 +1,15 @@
+HT-1376 ;urinary bladder ; Homo sapiens 
+HTB-9; urinary-bladder ;Homo sapiens 
+HTB-5; urinary bladder ;Homo sapiens 
+HTB-3; urinary bladder ;Homo sapiens 
+CRL-1749; urinary bladder  ;Homo sapiens
+SW 780 ; urinary  ;Homo sapiens 
+HTB-1J82 ;urinary bladder ; Homo sapiens 
+HTB-4T24 ; urinary bladder ; Homo sapiens 
+HTB-2RT4; urinary bladder ; Homo sapiens 
+HT-1197 ; urinary bladder ;Homo sapiens 
+Hs 228.T; urinary bladder ;Homo sapiens 
+Hs 172.T ; urinary bladder ; Homo sapiens 
+TBM-54 ; urinary bladder ; Bufo marinus
+HT-1197; urinary bladder ;Homo sapiens 
+HT 1376.T ;urinary bladder ;Homo sapiens

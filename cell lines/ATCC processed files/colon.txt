@@ -1,0 +1,65 @@
+RKO ;colon ; Homo Sapiens 
+RKO-AS45-1 ;colon; Homo Sapiens 
+HT-29 ;colon ; Homo Sapiens 
+[SW-1417] ;colon ; Homo Sapiens 
+[SW-948] ;colon ; Homo Sapiens  
+DLD-1 ;colon ; Homo Sapiens 
+[SW-480] ;colon ; Homo Sapiens 
+[SW-1116] ;colon ; Homo Sapiens 
+LS 174T ;colon ; Homo Sapiens 
+WiDr ;colon ; Homo Sapiens 
+COLO 320DM ;colon ; Homo Sapiens 
+COLO 320HSR  ;colon ; Homo Sapiens  
+HCT-15 ;colon ; Homo Sapiens 
+[SW-403] ;colon ; Homo Sapiens 
+[SW-48] ;colon ; Homo Sapiens 
+[HRT-18] ;colon ; Homo Sapiens 
+HCT 116 ;colon ; Homo Sapiens 
+LS123 ;colon ; Homo Sapiens 
+LS 180 ;colon ; Homo Sapiens 
+[HT1080 xeno] ;colon ; Homo Sapiens 
+[HT1080 poly] ;colon ; Homo Sapiens 
+CCD-18Co ;colon ; Homo Sapiens 
+CCD-33Co ;colon ; Homo Sapiens 
+CCD-112CoN ;colon ; Homo Sapiens 
+CCD 841 CoN ;colon ; Homo Sapiens 
+CCD 841 CoTr ;colon ; Homo Sapiens 
+FHC ;colon ; Homo Sapiens 
+Ramos ;colon ; Homo Sapiens 
+(HTB-37)] ;colon ; Homo Sapiens 
+RKO-E6 ;colon ; Homo Sapiens 
+ATRFLOX ;colon ; Homo Sapiens 
+Hs 255.T ;colon ; Homo Sapiens 
+Hs 257.T ;colon ; Homo Sapiens 
+Hs 675.T ;colon ; Homo Sapiens 
+Caco-2 ;colon ; Homo Sapiens 
+SK-CO-1 ;colon ; Homo Sapiens 
+COLO 201 ;colon ; Homo Sapiens 
+COLO 205 ;colon ; Homo Sapiens 
+Hs 698.T ;colon ; Homo Sapiens 
+LoVo ;colon ; Homo Sapiens 
+T84 ;colon ; Homo Sapiens
+[SW-620] ;colon ; Homo Sapiens 
+SNU-C1 ;colon ; Homo Sapiens
+XB-2 ;colon ;Mus musculus
+M-NFS-60 ;colon ;Mus musculus
+CT26.WT ;colon  ;Mus musculus
+CT26.CL25 ;colon ;Mus musculus
+SKI294;colon ;Mus musculus
+CLT85;colon ;Mus musculus
+HT 29 ;colon ;Mus musculus
+HT 36 ;colon ;Mus musculus
+HT26 ;colon ;Mus musculus
+1116NS-3d ;colon ;Mus musculus
+PCA 31.1 ;colon ;Mus musculus
+PCA 33.28 ;colon ;Mus musculus
+1116-NS-19-9 ;colon ;Mus musculus
+7E12H12 ;colon ;Mus musculus
+CLT152 ;colon ;Mus musculus
+TAC-1 ;colon ;Saguinus oedipus
+GPC-16 ;colon ; Cavia porcellus
+
+
+
+
+

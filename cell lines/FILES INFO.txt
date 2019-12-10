@@ -1,0 +1,15 @@
+			CELL LINES
+
+ATCC DOCUMENTS
+Source of original documents:  https://www.atcc.org/en/Landing_Pages/Cancer_and_Normal_Cell_Lines_by_Tissue_Type.aspx
+Files processed by : 
+Akshat Joshi (10 files) : brain, colon, gyneco, head and neck, leukemia, liver, lung, pancreatic, sarcoma, stomach
+Dhruv Kaushik (3 files) : bladder, breast, bone
+
+NCI-60 CELL LINES
+Source of document: NCI 60 official web site
+File processed by : Dhruv Kaushik
+
+CCLE CELL LINES
+Source of document: https://portals.broadinstitute.org/ccle/data
+File processed by : Dhruv Kaushik

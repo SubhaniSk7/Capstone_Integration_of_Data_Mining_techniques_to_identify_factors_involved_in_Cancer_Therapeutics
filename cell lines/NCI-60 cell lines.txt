@@ -1,0 +1,74 @@
+CCRF-CEM	Leukemia	human
+HL-60	Leukemia	human
+K-562	Leukemia	human
+MOLT-4	Leukemia	human
+RPMI-8226	Leukemia	human
+SR	Leukemia	human
+A549	Non-Small Cell Lung	human
+EKVX	Non-Small Cell Lung	human
+HOP-62	Non-Small Cell Lung	human
+HOP-92	Non-Small Cell Lung	human
+H226	Non-Small Cell Lung	human
+H23	Non-Small Cell Lung	human
+H322M	Non-Small Cell Lung	human
+H460	Non-Small Cell Lung	human
+H522	Non-Small Cell Lung	human
+COLO 205	Colon	human
+HCC-2998	Colon	human
+HCT-116	Colon	human
+HCT-15	Colon	human
+HT29	Colon	human
+KM12	Colon	human
+SW-620	Colon	human
+SF-268	CNS	human
+SF-295	CNS	human
+SF-539	CNS	human
+SNB-19	CNS	human
+SNB-75	CNS	human
+U251	CNS	human
+LOX IMVI	Melanoma	human
+MALME-3M	Melanoma	human
+M14	Melanoma	human
+MDA-MB-435	Melanoma	human
+SK-MEL-2	Melanoma	human
+SK-MEL-28	Melanoma	human
+SK-MEL-5	Melanoma	human
+UACC-257	Melanoma	human
+UACC-62	Melanoma	human
+IGR-OV1	Ovarian	human
+OVCAR-3	Ovarian	human
+OVCAR-4	Ovarian	human
+OVCAR-5	Ovarian	human
+OVCAR-8	Ovarian	human
+MCF-7	Ovarian	human
+SK-OV-3	Ovarian	human
+786-O	Renal	human
+A498	Renal	human
+ACHN	Renal	human
+CAKI-1	Renal	human
+RXF 393	Renal	human
+SN12C	Renal	human
+TK-10	Renal	human
+UO-31	Renal	human
+PC-3	Prostate	human
+DU-145	Prostate	human
+MCF7	Breast	human
+MDA-MB-231	Breast	human
+MDA-MB-468	Breast	human
+HS 578T	Breast	human
+MDA-N	Breast	human
+BT-549	Breast	human
+T-47D	Breast	human
+LXFL 529	Non-Small Cell Lung	human
+DMS 114	Small Cell Lung	human	
+SHP-77	Small Cell Lung	human
+DLD-1	Colon	human
+KM20L2	Colon	human
+SNB-78	CNS	human
+XF498	CNS	human	
+RPMI-7951	Melanoma	human	
+M19-MEL	Melanoma	human	
+RXF-631	Renal	human
+SN12K1	Renal	human
+P388	Leukemia	mouse
+P388/ADR	Leukemia	mouse

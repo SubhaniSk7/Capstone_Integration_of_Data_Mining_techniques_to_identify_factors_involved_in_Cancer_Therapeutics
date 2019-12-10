@@ -1,0 +1,82 @@
+SW1088 ;brain ;Home sapiens
+CHLA-02-ATRT ;brain ;Home sapiens
+G-3-5 ;brain ;Mus musculus
+U-87MG ;brain ;Home sapiens
+U-118MG ;brain ;Home sapiens
+3H5-1 ;brain ;Mus musculus
+15F3-1 ;brain ;Mus musculus
+1H10-6 ;brain ;Mus musculus
+5D4-11 ;brain ;Mus musculu
+Daoy ;brain/cerebellum ;Home sapiens
+D74 ;brain  ;Rattus norvegicus
+HCN-2 ;brain;Home sapiens
+bEnd.3 ;brain;Mus musculus
+A172 ;brain ;Home sapiens
+DBTRG-05MG ;brain  ;Home sapiens
+U-138 MG ;brain ;Home sapiens
+LN-229 ;brain ;Home sapiens
+T98G ;brain ;Home sapiens
+T98G ;brain ;Home sapiens
+108CC15 ;brain ;Mus musculus
+Hs683 ;brain ;Home sapiens
+C6 ;brain  ;Rattus norvegicus
+LacZ ;brain ;Rattus norvegicu
+C6/lacZ7 ;brain ;Rattus norvegicus
+9L/lacZ ;brain ;Rattus norvegicus
+SW1783 ;brain ;Homo sapiens
+CCF-STTG1 ;brain ;Homo sapiens
+LN-18 ;brain/cerebrum; Homo sapiens
+M059K ;brain ;Home sapiens
+M059J ;brain ;Home sapiens
+PFSK-1 ;brain ;Home sapiens
+D341 Med ;brain ;Home sapiens 
+D283 Med ;brain ;Home sapiens 
+CHLA-01-MED ;brain ;Home sapiens 
+CHP-212 ;brain ;Home sapiens
+IMR-32 ;brain ;Home sapiens 
+SK-N-AS ;brain ;Home sapiens 
+SK-N-FI ;brain ;Home sapiens 
+SK-N-DZ ;brain ;Home sapiens 
+SH-SY5Y ;brain ;Home sapiens 
+BE-M17 ;brain ;Home sapiens 
+BE-C ;brain ;Home sapiens 
+SK-N-BE ;brain ;Home sapiens 
+SK-N-SH ;brain ;Home sapiens 
+MC-IXC ;brain ;Home sapiens 
+Neuro-2a ;brain ;Mus musculus
+NB41A3 ;brain ;Mus musculus
+N1E-115 ;brain ;Mus muscul
+SH-EP1 ;brain ;Home sapiens 
+SK-N-MC ;brain ;Home sapiens 
+H4 ;brain ;Home sapiens 
+F98 ;brain ;Rattus norvegicus
+F98EGFR ;brain ;Rattus norvegicus
+RvIII ;brain ;Rattus norvegicus
+PG-4 ;brain ; Felis catus
+SVGp12 ;brain ;Home sapiens sapiens
+CATH.a ;brain ;Mus musculus
+EOC2 ;brain ;Mus musculus
+EOC13.31 ;brain ;Mus musculus
+EOC20 ;brain ;Mus musculus
+C8-D30 ;brain/cerebellum  ;Mus musculus
+C8-S ;brain/cerebellum ;Mus musculus
+C8-B4 ;brain/cerebellum ;Mus musculus
+C8-D1A ;brain/cerebellum ;Mus musculus
+Mpf ;brain ; Mustela putoris furo
+CTXTNA2 ;brain/cortex ;Rattus norvegicus
+DITNC1 ;brain/diencephalon ;Rattus norvegicus
+H19-7 ;brain/hippocampus ;Rattus norvegicus
+IGF-IR ;brain/hippocampus ;Rattus norvegicus
+RN33B ;brain/medullary ;Rattus norvegicus
+G355-5 ;brain ;Felis catus
+NE-4C ;brain/neuroectodermal ;Mus musculus
+BC3H1 ;brain/smooth muscle ;Mus musculus
+X22 ;brain ;Mus musculus
+CVC.1 ;brain ;Mus musculus
+CVC.4 ;brain ;Mus musculu
+CVC.7 ;brain ;Mus musculus
+SCP ;brain ;Ovis aries
+OA1 ;brain ;Ovis aries
+HCN-1A ;brain ; Home sapiens
+NE-GFP-4C ;brain ;Mus musculus
+4C5G ;brain ;Mus musculus

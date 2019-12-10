@@ -1,0 +1,49 @@
+Panc 03.27 ;pancreas;Homo sapiens
+Panc 02.13 ;pancreas;Homo sapiens
+Panc 10.05 ;pancreas;Homo sapiens
+Panc 08.13 ;pancreas;Homo sapiens
+Panc 02.03 ;pancreas;Homo sapiens
+Panc 04.03 ;pancreas;Homo sapiens
+Panc 05.04 ;pancreas;Homo sapiens
+BxPC-3 ;pancreas ;Homo sapiens
+HPAF-II ;pancreas;Homo sapiens
+HPAC ;pancreas;Homo sapiens
+Capan-2 ;pancreas;Homo sapiens
+AsPC-1 ;pancreas;Homo sapiens
+Capan-1 ;pancreas;Homo sapiens
+SW 1990;pancreas;Homo sapiens
+LTPA ;pancreas ;Mus musculus
+alphaTC1 Clone 9 ;pancreas ;Mus musculus
+alpha TC1 clone 6 ;pancreas ;Mus musculus
+NIT-2 ;pancreas; Mus musculus
+MIA PaCa-2 ;pancreas;Homo sapiens
+PL45 ;pancreas;Homo sapiens
+CFPAC-1 ;pancreas ;Homo sapiens
+SU.86.86 ;pancreas;Homo sapiens
+PANC-1 ;pancreas/duct;Homo sapiens
+Beta-TC-6 ;pancreas; Mus musculus
+NIT-1 ;pancreas; Mus musculus
+RIN-m ;pancreas;Rattus norvegicus
+RIN-m5F ;pancreas ;Rattus norvegicus
+266-6 ;pancreas; Mus musculus
+TGP49 ;pancreas; Mus musculus
+TGP47 ;pancreas; Mus musculus
+Hs 766T ;pancreas;Homo sapiens
+DSL-6B ;pancreas ;Rattus norvegicus
+DSL-6A ;pancreas ;Rattus norvegicus
+TGP52 ;pancreas; Mus musculus
+TGP61 ;pancreas; Mus musculus
+TGP55 ;pancreas; Mus musculus
+ARIP ;pancreas ;Rattus norvegicus
+MS1 VEGF ;pancreas ; Mus musculus
+AR42J ;pancreas ;Rattus norvegicus
+MIA PaCa-2 ;pancreas ;Homo sapiens
+HIT-T15 ;pancreas ;Mesocricetus auratus
+MS1;pancreas; Mus musculus
+SVR ;pancreas;Mus musculus
+RIN-5F ;pancreas ;Rattus norvegicus
+RIN-14B ;pancreas ;Rattus norvegicus
+Mu Islet;pancreas; Mus musculus
+SVR A221a ;pancreas;Mus musculus
+SVR bag4 ;pancreas;Mus musculus
+UACC-462 ;pancreas;Homo sapiens

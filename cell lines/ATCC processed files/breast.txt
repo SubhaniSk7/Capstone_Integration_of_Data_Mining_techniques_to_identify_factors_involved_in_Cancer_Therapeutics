@@ -1,0 +1,120 @@
+Hs 281.T; breast ; Homo sapiens 
+Hs 343.T ; breast ; Homo sapiens 
+Hs 362.T; breast ;Homo sapiens 
+MDA-MB-468; breast ; Homo sapiens 
+MDA-MB-361; breast; Homo sapiens 
+AU565; breast ; Homo sapiens 
+MCF7 ; breast;  Homo sapiens
+MDA-MB-231 ; breast; Homo sapiens
+MDA-MB-415 ; breast ; Homo sapiens
+MDA-MB-436 ; breast ; Homo sapiens 
+CAMA-1; breast; Homo sapiens 
+SK-BR-3; Breast ; Homo sapiens 
+MDA-MB-231 ; Breast; Homo sapiens
+JC ; Epithelial; Mus musculus
+13762 MAT B III ; mammary-gland ; Rattus norvegicus
+NMU ; mammary-gland ; Rattus norvegicus
+RBA ; mammary-gland ; Rattus norvegicus
+UACC-1179 ; breast ; Homo sapiens
+UACC-2087 ;breast; Homo sapiens
+Hs 274.T; breast ; Homo sapiens 
+Hs 739.T; breast ; Homo sapiens 
+Hs 741.T; breast ; Homo sapiens 
+SMT/2A LNM ; mammary-gland ; Rattus norvegicus
+Hs 748.T ; breast ; Homo sapiens 
+Hs 578Bst ; breast; Homo sapiens 
+Hs 578T; breast ; Homo sapiens
+BT-20 ; breast ; Homo sapiens 
+Hs 579.Mg ; breast ; Homo sapiens 
+UACC-812 ; breast ; Homo sapiens 
+BT-483 ; breast ; Homo sapiens 
+BT-549 ; breast ; Homo sapiens 
+Hs 574.T; breast; Homo sapiens
+BT-474 ; breast; Homo sapiens
+ZR-75-1; breast/duct; Homo sapiens
+T47D-KBluc ; breast/duct; Homo sapiens
+T-47D ; breast/duct;  Homo Sapiens 
+MDA-MB-134-VI ; breast/duct; Homo sapiens
+MDA-MB-175-VII; breast/duct; Homo sapiens 
+ZR-75-30; breast; Homo sapiens 
+UACC-2648 ; breast/duct ; Homo sapiens 
+MCF 10A ; breast ;Homo sapiens 
+MCF 10F ; breast ; Homo sapiens 
+MCF-10-2A; breast ; Homo sapiens 
+Hs 564(E).Mg ; breast ; Homo sapiens
+UACC-3199; breast; Homo sapiens
+Hs 319.T; breast ; Homo sapiens 
+UACC-3133; breast; Homo sapiens
+UACC-732 ;breast ; Homo sapiens
+EMT6 ; breast ; Mus musculus
+MDA-MB-157; breast; Homo sapiens
+MDA-MB-453; breast; Homo sapiens
+ [CSMab6C] ;mammary-gland; Mus musculus
+CMH1a ;mammary-gland ; Mus musculus 
+ [CMab1h] ; mammary-gland ; Mus musculus 
+UACC-893 ; breast ;Homo sapiens 
+Hs 742.T; breast ; Homo sapiens 
+4T1 ; breast; Mus musculus
+HCC1395 ; breast; Homo sapiens
+HCC1954 ; breast; Homo sapiens
+HCC1008; breast/duct; Homo sapiens
+HCC1143 ; breast/duct ; Homo sapiens 
+HCC1187; breast/duct ; Homo sapiens
+HCC1806; breast ; Homo sapiens 
+HCC1500 ; breast/duct; Homo sapiens
+HCC38; breast/duct ; Homo sapiens
+HCC1937; breast/duct ;Homo sapiens
+HCC2157;  breast/duct ; Homo sapiens
+HCC202 ; breast/duct ; Homo sapiens 
+HCC1599 ; breast/duct; Homo sapiens
+HCC1419; breast ; Homo sapiens 
+HCC2218 ; breast/duct ; Homo sapiens
+HCC70; breast/duct; Homo sapiens
+HCC1569 ; breast; Homo sapiens
+HCC1428; breast; Homo sapiens 
+MCF-12A ; breast ; Homo sapiens
+MCF-12F; breast ; Homo sapiens 
+MDA-kb2 ; breast ; Homo sapiens
+Hs 605.T; breast Homo sapiens 
+SW527; breast; Homo sapiens 
+DU4475 ; breast ; Homo sapiens 
+184A1 ; breast/epithelium; Homo sapiens 
+184B5 ;  breast/epithelium; Homo sapiens 
+MB 157; breast; Homo sapiens
+CMMT ; mammary-gland ; Macaca mulatta 
+MMT 060562 ; mammary-gland ; Mus musculus
+CL-S1 ;mammary-gland; Mus musculus 
+NMuMG ; mammary-gland ;Mus musculus
+C127: LT ;mammary-gland ;Mus musculus
+MM3MG ;mammary-gland ;Mus musculus
+MM5MTC ; mammary-gland ; Mus musculus
+MGT ; mammary-gland ; Mus musculus 
+LA7 ; mammary-gland ;Rattus norvegicus 
+Rn2T ; mammary-gland ; Rattus norvegicus 
+CF37.Mg; mammary-gland; Canis familiaris 
+CF41.Mg ; mammary-gland ;Canis familiaris 
+Hs 566(B).T; breast Homo sapiens 
+Hs 606.T ; breast ;  Homo sapiens 
+Eph4Ev ; Epithelium ; Mus musculus
+B-MEKDD 116 ; Mammary-Epithelial ; Mus musculus
+Eph4 1424 ; Mammary ; Mus musculus
+M158 ; Mammary ; Mus musculus
+NF639 ; Mammary ; Mus musculus
+Ac 711 ; Mammary ; Mus musculus
+Mm5MT ; mammary-gland ; Mus musculus
+Hs 329.T; breast ;Homo sapiens 
+Hs 371.T; breast ;Homo sapiens 
+Hs 190.T ; breast; Homo sapiens 
+Hs 344.T ; breast ;Homo sapiens 
+Hs 350.T ; breast ;Homo sapiens 
+Hs 617.Mg ; breast;  Homo sapiens
+Hs 841.T ; breast;  Homo sapiens 
+Hs 849.T; breast ;Homo sapiens 
+Hs 851.T ; breast; Homo sapiens
+Hs 861.T; breast; homo sapiens 
+Hs 875.T; breast; Homo sapiens 
+MM2MT; mammary-gland ;Mus musculus
+RIIIMT; mammary-gland ;Mus musculus 
+Rn1T ;mammary-gland ;Rattus norvegicus 
+CF38.Mg ;mammary-gland ;Canis familiaris 
+CF34.Mg ; mammary-gland; Canis familiaris

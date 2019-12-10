@@ -1,0 +1,6 @@
+			CANCER DICTIONARY
+
+Cancer dictionary was created by combining data from these online sources(websites):
+	# https://www.cancerresearchuk.org/about-cancer/type
+	#  https://www.cancer.gov/types
+	#  https://www.cancer.net/cancer-types

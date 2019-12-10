@@ -1,0 +1,71 @@
+Capan-1;lung ; Homo sapiens
+SK-HEP-1 ;lung/ascites; Homo sapiens 
+MC/9 ;lung ;Mus musculus
+clone 9 ;lung ;Rattus norvegicus
+B72.3 ;lung ;Mus musculus
+B25.2 ;lung ; Mus musculus
+B6.2 ;lung  ;Mus musculus 
+B38.1 ;lung ;Mus musculus
+DMS 153 ;lung ;Homo sapiens
+SU.86.86 ;lung ;Homo sapiens
+[N87] ;lung ;Homo sapiens
+SNU-182 ;lung ;Homo sapiens 
+SNU-423 ;lung;Homo sapiens 
+SNU-449 ;lung;Homo sapiens 
+SNU-475 ;lung;Homo sapiens 
+SNU-387 ;lung;Homo sapiens 
+Hs 817.T ;lung ;human or mouse
+LMH ;lung;Gallus gallus
+LMH/2A ;lung;Gallus gallus
+HepG2C3A ;lung;Homo sapiens 
+HEP G2;lung  ;Homo sapiens 
+[Hep 3B] ;lung;Homo sapiens 
+[HEPG2]  ;lung;Homo sapiens 
+PLHC-1 ;lung ;Pan troglodytes
+Hep G2 ;lung ;Homo sapiens 
+Hep SF ;lung ;Homo sapiens 
+PLC/PRF/5 ;lung;Homo sapiens 
+WCH-17 ;lung; Marmota monax
+Hepa 1-6 ;lung ;Mus musculus
+Hepa-1c1c7 ;lung  ;Mus musculus
+BpRc1 ;lung   ;Mus musculus
+tao BpRc1 ;lung  ;Mus musculus
+B15ECiii2 ;lung ;Mus musculus
+B7IFi1 ;lung  ;Mus musculus
+vT2 ;lung ;Mus musculus
+B6NLxv1c2 ;lung  ;Mus musculus
+B13NBii1 ;lung ;Mus musculus
+MH1C1 ;lung ;Rattus norvegicus
+H-4-II-E ;lung;Rattus norvegicus
+H4TG ;lung;Rattus norvegicus
+H4-II-E-C3 ;lung ;Rattus norvegicus
+RTH-149 ;lung;Odocoileus hemionus hemionus
+McA-RH7777 ;lung  ;Rattus norvegicus
+McA-RH8994 ;lung;Rattus norvegicus
+N1-S1;lung;Rattus norvegicus
+14.8 ;lung  ;Rattus norvegicus
+AML12 ;lung ;Mus musculus 
+[H1755]; lung;Homo sapiens 
+[H735] lung;Homo sapiens 
+THLE-2 ;lung ;Homo sapiens 
+[ZF-L] ;lung ;Danio rerio
+AC133.1 ;lung,bone,blood ;Mus musculus
+THLE-3 ;lung ;Homo sapiens 
+NMuLi ;lung;Mus musculus
+H2.35 ;lung;Mus musculus
+FL83B ;lung;Mus musculus
+NMu3Li ;lung;Mus musculus
+BNL CL.2 ;lung;Mus musculus
+BNL SV A.8 ;lung;Mus musculus
+BNL 1ME A.7R.1 ;lung;Mus musculus
+BNL 1NG A.2 ;lung;Mus musculus
+OHH1.Li ;lung;Odocoileus hemionus hemionus
+SOB-15 ;lung ;Odocoileus hemionus hemionus
+BRL 3A ;lung ;Rattus norvegicus
+Sl/Sl4 ;lung/stroma;Mus musculus
+Sl/Sl4 hSCF220 ;lung/stroma;Mus musculus
+Sl/Sl4 hSCF248 ;lung/stroma;Mus musculus
+L.N. 4159 ;lung;Mus musculus
+15-79-2 ;lung ;Mus musculus
+[FH5] ;lung ;Mus musculus
+22F.Li ;lung  ;Zalophus californianus

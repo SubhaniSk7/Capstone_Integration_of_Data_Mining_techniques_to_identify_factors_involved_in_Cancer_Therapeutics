@@ -1,0 +1,7 @@
+AGS ; stomach ; Homo sapiens
+SNU-1 ;stomach ; Homo sapiens
+SNU-5 ;stomach ;Homo sapiens
+SNU-16 ; stomach ;Homo sapiens
+Hs 746T ;stomach ; Homo sapiens
+NCI-N87 ;stomach ;Homo sapiens
+KATOIII ;stomach ;Homo sapiens

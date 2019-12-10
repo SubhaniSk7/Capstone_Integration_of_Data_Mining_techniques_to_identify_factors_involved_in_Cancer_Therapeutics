@@ -1,0 +1,22 @@
+Detroit562 ; pharynx ;Homo sapiens
+FaDu ; pharynx ;Homo sapiens
+SCC-15 ;tongue ;Homo sapiens
+SCC-4 ;tongue ;Homo sapiens
+SCC-25 ;tongue ;Homo sapiens
+SCC-9 ;tongue ;Homo sapiens
+CAL 27 ;tongue ;Homo sapiens
+019 ;tongue ;Homo sapiens
+029 ;tongue ;Homo sapiens
+Fc3Tg ;tongue ;Felis catus
+FDC-1 ;tonsil ;Homo sapiens
+8A3B.6 ;tongue ;Mus musculus
+8B1B.1 ;tongue ;Mus musculus
+7D3A.2 ;tongue ;Mus musculus
+BHFTE ;tongue ;Ovis canadensis nelsoni
+FT ;tongue;Rana catesbelana
+W6/32 ; tonsils, spleen ;Mus musculus
+S1 ;Salivary Gland ;Mus musculus
+FC3.Tg ;tongue ;Felis catus
+Hs 157.Tg ;tongue ;Homo sapiens
+EBTr ; trachea ;Bos taurus
+NBL-4; trachea ;Bos taurus

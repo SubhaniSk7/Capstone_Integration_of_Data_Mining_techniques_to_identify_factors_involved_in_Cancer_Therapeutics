@@ -1,0 +1,97 @@
+RS411; bone ; Homo sapiens
+SUP-B15 ; bone ; Homo sapiens
+KG-1;bone ; sapiens
+KG-1a ; bone marrow ; Homo sapiens
+KG-1 ;bone marrow ;Homo sapiens 
+KG-1 ;bone marrow Homo sapiens
+Hs696 ;bone ;Homo sapiens 
+Hs919.T ;bone ;Homo sapiens
+Hs819.T ;bone ;Homo sapiens 
+SW1353 ;bone ;Homo sapiens 
+K-562 ;bone ;Homo sapiens
+MEG-01 ;bone ;Homo sapiens
+Hs 454.T ; bone ; Homo sapiens 
+VA-ES-BJ ; bone ; Homo sapiens 
+TF-1 ; bone ; Homo sapiens 
+TF-1a ;bone ;Homo sapiens 
+HEL 92.1.7 ;bone ; Homo sapiens 
+HEL 92.1.7 ;bone ;Homo sapiens 
+TF-1.CN5a.1 ;bone ; Homo sapiens 
+F25 ;bone ;Felis catus 
+Hs 822.T ;bone ;Homo sapiens 
+Hs 863.T ;bone ;Homo sapiens 
+RD-ES ;bone ; Homo sapiens 
+ [10ScNCr/23] ;bone ; Mus musculus
+Hs 706.T ;bone ;Homo sapiens 
+Hs 737.T ;bone ; Homo sapiens 
+Hs 821.T ;bone ; Homo sapiens 
+HS-5 ;bone ;Homo sapiens 
+SR-4987 ;bone ; Mus musculus 
+SAML-2 ;bone ; Homo sapiens 
+FDC-P1 ;bone ; Mus musculus
+DAN; bone ; Canis familiaris 
+D-17 ;bone ; Canis familiaris 
+A141B1 ;bone ; Homo sapiens 
+MG-63 ;bone ; Homo sapiens 
+HOS ; bone; Homo sapiens 
+Hs 39.T ;bone ;  Homo sapiens 
+Hs 704.T ;bone ;Homo sapiens 
+Hs 707(A).T ;bone ;Homo sapiens
+Hs 870.T ;bone ; Homo sapiens
+Hs 890.T ;bone;Homo sapiens 
+T1-73 ;bone ; Homo sapiens
+143B ;bone ; Homo sapiens 
+Saos-2 ;bone ; Homo sapiens 
+U-2 OS ;bone ; Homo sapiens 
+Hs 88.T ;bone ; Homo sapiens 
+Hs 888.T ;bone; Homo sapiens 
+ [K7M2-WT] ;bone; Mus musculus
+UMR-106 ;bone ;  Rattus norvegicus
+UMR-108 ;bone ;Rattus norvegicus
+DSDh ;bone ; Canis familiaris
+DSN; bone; Canis familiaris
+KHOS-240S; bone ; Homo sapiens 
+KHOS-312H ;bone ; Homo sapiens 
+Hs 184.T ;bone ; Homo sapiens
+D17 ;bone ; Canis familiaris 
+Hs 889.T ;bone ; Homo sapiens 
+D22 ;bone ;  Canis familiaris
+CF11.T ;bone ; Canis familiaris 
+Hs 3.T ;bone ; Homo sapiens 
+Hs 188.T ;bone ; Homo sapiens 
+Hs 387.T ;bone ; Homo sapiens 
+Hs 755(B).T ;bone ;Homo sapiens 
+Hs 781.T ;bone ; Homo sapiens 
+Hs 14.T ;bone ;Homo sapiens 
+Hs 860.T ;bone; Homo sapiens 
+Hs 894(A).T ;bone; Homo sapiens 
+Hs 899(C).T ;bone; Homo sapiens 
+Hs 899(D).T ;bone; Homo sapiens 
+SJSA-1 ;bone; Homo sapiens
+[H929] ;bone ; Homo sapiens 
+TE 130.T; bone ; Homo sapiens 
+SK-ES-1 ;bone ; Homo sapiens 
+hFOB 1.19 ;bone ;Homo sapiens 
+HS-27A ;bone ;Homo sapiens 
+32D ;bone ;Mus musculus
+MPRO; bone ; Mus musculus
+EML; bone ;  Mus musculus
+JAWSII ;bone; Mus musculus
+7F2 ; bone ; Mus musculus
+ [D1] ;bone ; Mus musculus
+M2-10B4 ;bone ; Mus musculus 
+W-20-17 ; bone ; Mus musculus
+MC3T3-E1 ; bone; Mus musculus 
+1H11 ;bone; Mus musculus
+M/K-2.7; bone; Rattus norvegicus
+KMI6 ; bone;  Rattus norvegicus
+SM27-1045 ; bone; Mus musculus 
+KM703 ; bone; Rattus norvegicus
+KM201 ; bone; Rattus norvegicus
+KM81 ; bone ;Rattus norvegicus
+KM114 ; bone ; Rattus norvegicus
+M/K-1.9 ; bone; Rattus norvegicus
+KMC8.8; bone;  Rattus norvegicus
+BBm ; bone ; Bos taurus 
+FB5.Bm ; bone ; Bos taurus 
+Hs 855.T ; bone; Homo sapiens

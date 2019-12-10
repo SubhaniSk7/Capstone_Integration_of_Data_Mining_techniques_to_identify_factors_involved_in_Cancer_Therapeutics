@@ -1,0 +1,9 @@
+u-87mg; brain; homo sapiens
+b16-f10; skin; mice
+cf33; breast; dog
+neuro2a; brain; Mus musculus
+hapt-1; blood; homo sapiens
+u87; brain; homo sapiens
+c3h; embryo; Mus musculus
+h3b; liver; homo sapiens
+bsm; blood; homo sapiens
